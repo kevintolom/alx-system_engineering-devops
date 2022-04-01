@@ -1,0 +1,1 @@
+Script is printing pwd
